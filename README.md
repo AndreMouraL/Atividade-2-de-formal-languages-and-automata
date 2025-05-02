@@ -21,4 +21,4 @@ Este repositório contém exercícios e exemplos práticos sobre conceitos funda
 ## Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/AndreMouraL/Atividade-2-de-formal-languages-and-automata.git
